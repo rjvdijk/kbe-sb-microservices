@@ -18,7 +18,7 @@ spec:
         app: kibana
     spec:
       containers:
-      - image: docker.elastic.co/kibana/kibana:7.12.1
+      - image: docker.elastic.co/kibana/kibana:7.17.18
         name: kibana
         resources: {}
 status: {}
